@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/channel/UC3GaF-DlWwuManxfq0QJ0XA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/impooranjoyb">
+  <a href="https://twitter.com/impooranjoy">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -22,7 +22,7 @@
 
 ### Hey There, I am Pooranjoy!
 
-- 🔭 I’m a first Btech undergrad from SMIT Sikkim, India 
+- 🔭 I’m a 1st Year Btech undergrad from SMIT Sikkim, India 
 - :zap: I’m currently learning backend web development using Javascript & Node.js
 - :seedling: Exploring Technical Content Writing.
 - 📫 How to reach me: pooranjoy@gmail.com 
@@ -40,8 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  
 </div>
+
 ---
 
 ### :fire: My Stats :

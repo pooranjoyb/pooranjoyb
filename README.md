@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/pooranjoy-bhattacharya-baa23721a">
+  <a href="https://www.linkedin.com/in/pooranjoy-bhattacharya-baa23721a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC3GaF-DlWwuManxfq0QJ0XA">

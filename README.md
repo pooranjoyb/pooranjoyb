@@ -1,20 +1,30 @@
+<h3>
 <div align="center">
   
 ### :man_technologist: About Me :
   
 </div>
+    </h3>
 <div align="center">
   
-### Hey There, I am Pooranjoy Bhattacharya!
+
+  ### Hey There, I am Pooranjoy Bhattacharya
+
+  </div>
+
+---
+
+<div align="center">
+  
+   :pushpin: I’m a 1st Year Btech undergrad from SMIT Sikkim,	India<br><br>
+   :orange_heart: I’m currently learning backend web development using Javascript & Node.js<br><br>
+  :seedling: Exploring Technical Content Writing.<br><br>
+  😄 Pronouns: He/Him<br><br>
+ :derelict_house: Hometown : Tinsukia, Assam, India<br><br>
+ :email: How to reach me: ***pooranjoy@gmail.com / Socials attached Below***<br>
 
   </div>
   
-- 🔭 I’m a 1st Year Btech undergrad from SMIT Sikkim, India 
-- :zap: I’m currently learning backend web development using Javascript & Node.js
-- :seedling: Exploring Technical Content Writing.
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: ***pooranjoy@gmail.com / Tap the links Below***
-
 ---
 
 <div id="badges" align="center">
@@ -31,6 +41,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350"/>
 </div>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pooranjoyb&style=flat-square&color=blue" alt=""/>
 </div>

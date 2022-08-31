@@ -16,7 +16,7 @@
 
 <div align="center">
   
-   :pushpin: I’m a 1st Year Btech undergrad from SMIT Sikkim,	India<br><br>
+   :pushpin: I’m a Btech undergrad from SMIT Sikkim,	India<br><br>
    :orange_heart: I’m currently learning backend web development using Javascript & Node.js<br><br>
   :seedling: Exploring Technical Content Writing.<br><br>
   :musical_note: An Amateur Musician and Painter 	:art:<br><br>

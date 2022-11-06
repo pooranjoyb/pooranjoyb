@@ -16,9 +16,9 @@
 
 <div align="center">
   
-   :pushpin: I’m a Btech undergrad from SMIT Sikkim,	India<br><br>
+   :pushpin: I’m a 2nd year Btech undergrad from SMIT Sikkim,	India<br><br>
    :orange_heart: I’m currently learning backend web development using Javascript & Node.js<br><br>
-  :seedling: Exploring Technical Content Writing.<br><br>
+  :seedling: Exploring Frontend frameworks and technical content writing.<br><br>
   :musical_note: An Amateur Musician and Painter 	:art:<br><br>
   😄 Pronouns: He/Him<br><br>
  :derelict_house: Hometown : Tinsukia, Assam, India<br><br>

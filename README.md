@@ -86,4 +86,12 @@
 
 </div>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+--- 
+
+<div align="center">
+
+### :snake: Watch Snake eat up my commits !
+
+![snake gif](https://github.com/pooranjoyb/pooranjoyb/blob/output/github-contribution-grid-snake.gif)
+
+</div>

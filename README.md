@@ -1,20 +1,16 @@
-<h3>
+
 <div align="center">
   
-### :man_technologist: About Me :
-  
+<img src="https://github.com/pooranjoyb/pooranjoyb/blob/master/readme-header.png" alt="LinkedIn Badge"/>
+
 </div>
-    </h3>
-<div align="center">
-  
 
-  ### Hey There, I am Pooranjoy Bhattacharya
-
-  </div>
 
 ---
 
 <div align="center">
+ 
+ ### :man_technologist: About Me :
   
    :pushpin: I’m a 2nd year Btech undergrad from SMIT Sikkim,	India<br><br>
    :orange_heart: I’m currently learning backend web development using Javascript & Node.js<br><br>
@@ -24,8 +20,13 @@
  :derelict_house: Hometown : Tinsukia, Assam, India<br><br>
  :email: How to reach me: ***pooranjoy@gmail.com / Socials attached Below***<br>
 
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+
   </div>
-  
+
 ---
 
 <div id="badges" align="center">
@@ -60,6 +61,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp; 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;

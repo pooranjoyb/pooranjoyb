@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<img src="https://github.com/pooranjoyb/pooranjoyb/blob/master/readme-header.png" alt="LinkedIn Badge"/>
+<img src="https://github.com/pooranjoyb/pooranjoyb/blob/master/header.jpg" alt="LinkedIn Badge"/>
 
 </div>
 

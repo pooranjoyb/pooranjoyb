@@ -89,14 +89,11 @@
   
  </div>
  
-<p align="center">
+<div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pooranjoyb&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=pooranjoyb&show_icons=true&locale=en&theme=default" alt="pooranjoyb"/>
-
-</p>
-
-<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooranjoyb&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 

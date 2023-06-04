@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center">
+<div>
  
  ### :man_technologist: About Me :
   

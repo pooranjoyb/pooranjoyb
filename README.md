@@ -12,7 +12,7 @@
  
  ### :man_technologist: About Me :
   
-   :pushpin: I’m a 2nd year Btech undergrad from SMIT Sikkim,	India<br><br>
+   :pushpin: I’m a 3rd year Btech undergrad from SMIT Sikkim,	India<br><br>
    :orange_heart: I’m currently learning backend development using Node.js<br><br>
   :seedling: Exploring Frontend frameworks and technical content writing.<br><br>
   :musical_note: An Amateur Musician and Painter 	:art:<br><br>

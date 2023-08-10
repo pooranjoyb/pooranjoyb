@@ -101,16 +101,4 @@
 
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=pooranjoyb&show_icons=true&locale=en&theme=default" alt="pooranjoyb"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooranjoyb&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
---- 
-
-<div align="center">
-
-### :snake: Watch Snake eat up my commits !
-
-![snake gif](https://github.com/pooranjoyb/pooranjoyb/blob/output/github-contribution-grid-snake.gif)
-
 </div>

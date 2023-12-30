@@ -1,0 +1,9 @@
+Checking a PR : 
+git fetch origin pull/<issue-no>/head:<local-branch-name>
+
+Fetching & Editing a PR
+- git remote add <local-origin-name> <link-to-forked-repo>
+- git fetch <local-origin-name>
+- git checkout -b <local-origin-name> <local-origin-name>/<branch-name-of-PR>
+- Issue Local Commits
+- git push <local-origin-name> HEAD:<branch-name-of-PR>

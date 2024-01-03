@@ -18,12 +18,16 @@
   :musical_note: An Amateur Musician and Painter 	:art:<br><br>
   😄 Pronouns: He/Him<br><br>
  :derelict_house: Hometown : Tinsukia, Assam, India<br><br>
- :email: How to reach me: ***pooranjoy@gmail.com / Socials attached Below***<br>
+ :email: How to reach me: ***pooranjoyb2016@gmail.com / Socials attached Below***<br>
 
+<div align="center">
+  
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+
+</div>
 
   </div>
 

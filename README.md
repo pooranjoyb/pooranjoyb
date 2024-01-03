@@ -13,8 +13,8 @@
  ### :man_technologist: About Me :
   
    :pushpin: I’m a 3rd year Btech Undergrad from SMIT Sikkim,	India<br><br>
-   :orange_heart: I’m currently learning backend development using Node.js<br><br>
-  :seedling: Exploring Frontend frameworks and technical content writing.<br><br>
+   :orange_heart: I’m currently learning NodeJS & NextJS <br><br>
+  :seedling: Exploring Frontend Frameworks and Android App Development.<br><br>
   :musical_note: An Amateur Musician and Painter 	:art:<br><br>
   😄 Pronouns: He/Him<br><br>
  :derelict_house: Hometown : Tinsukia, Assam, India<br><br>

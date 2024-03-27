@@ -20,39 +20,8 @@
  :derelict_house: Hometown : Tinsukia, Assam, India<br><br>
  :email: How to reach me: ***pooranjoyb2016@gmail.com / Socials attached Below***<br>
 
-<div align="center">
-  
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
-
-</div>
-
   </div>
-
----
-
-<div id="badges" align="center">
-  </a>
-  <a href="https://www.twitter.com/impooranjoy">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.instagram.com/pooranjoyz_.ig/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pooranjoy-bhattacharya-baa23721a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350"/>
-</div>
-<br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pooranjoyb&style=flat-square&color=blue" alt=""/>
-</div>
-<br>
+  
 <div align="center">
 <p><a href="https://www.buymeacoffee.com/pooranjoyb"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pooranjoyb-buymeacoffee" /></a></p>
 </div>

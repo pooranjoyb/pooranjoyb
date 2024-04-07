@@ -1,71 +1,102 @@
+<h1 align='center'>👋 Hello!</h1>
+<p align='center'>
+  <a href="https://pooranjoyb.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://peerlist.io/pooranjoy"><img src="https://github-readme-badge.peerlist.io/api/pooranjoy"/></a>
+  <img src="https://komarev.com/ghpvc/?username=pooranjoyb&color=dc143c"/></a>
+  <a href="https://github.com/pooranjoyb?tab=repositories"><img src="https://img.shields.io/github/stars/pooranjoyb?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+</p>
 
-<div align="center">
-  
-<img src="https://github.com/pooranjoyb/pooranjoyb/blob/master/header.jpg" alt="LinkedIn Badge"/>
+Glad to see you here! I'm Pooranjoy Bhattacharya, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **open-source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨. 
 
-</div>
+Currently, I'm building an eCommerce Application based on React & Supabase. My notable contributions include building [StreeSaksham](https://github.com/pooranjoyb/stree_saksham) which was submitted to Google Solutions Challenge 2024. I've had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) in the project named [StoryBook](https://github.com/pooranjoyb/StoryBook-RN).
 
+### Projects
 
----
+Apart from the pinned repositories, I have contributed to:
+- 🛡️ [Fintech API](https://github.com/pooranjoyb/fintech-api) *(included in [Project Clueless Community](https://github.com/Clueless-Community) 2023)*
+- 🎲 [Click The Edible Game](https://github.com/pooranjoyb/Click-The-Edible-Game) *(part of [JGEC Winter of Code](https://www.jwoc.tech/) 2023)*
+- 💧 [Parking Management Desktop App](https://github.com/pooranjoyb/park-n-go) *(part of 4th Semester Mini-Project)*
+- 🦠 [COVID-19 Tracker](https://github.com/pooranjoyb/Covid-App) *(KivymD Desktop Application included in Delta Winter of Code 2023)*
 
-<div>
- 
- ### :man_technologist: About Me :
-  
-   :pushpin: I’m a 3rd year Btech Undergrad from SMIT Sikkim,	India<br><br>
-   :orange_heart: I’m currently learning NodeJS & NextJS <br><br>
-  :seedling: Exploring Frontend Frameworks and Android App Development.<br><br>
-  :musical_note: An Amateur Musician and Painter 	:art:<br><br>
-  😄 Pronouns: He/Him<br><br>
- :derelict_house: Hometown : Tinsukia, Assam, India<br><br>
- :email: How to reach me: ***pooranjoyb2016@gmail.com / Socials attached Below***<br>
+### Tech Stack
 
-  </div>
-  
-<div align="center">
-<p><a href="https://www.buymeacoffee.com/pooranjoyb"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pooranjoyb-buymeacoffee" /></a></p>
-</div>
+I mostly work with **Typescript**, specifically **React** in the frontend with **NextJS** to power my Web Apps. Recently, I have been tinkering with **React-Native** and **.NET Core**.
 
----
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white" />&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase" />&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code" />
 
-<div align="center">
-  
-### :hammer_and_wrench: Languages and Tools :
-  
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp; 
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />&nbsp;
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code" />
-</div>
+    
+
+### Open Source Initiatives
+
+During **Hacktoberfest 2023**, I mentored the Official Website Repository of *[GDSC SMIT](https://github.com/gdscsmit)* helping beginners kickstart their journey into open-source, impacting over 100+ beginners. I also mentored on a project called *[Beat Bridge](https://github/pooranjoyb/BeatBridge)* which is basically Spotify Integrated Music Player with clustering based recommendation engine. 
+
+### Let's connect!
+
+Explore my thoughts at [@pooranjoy](https://medium.com/@pooranjoy), and let's connect on 𝕏 [(Twitter)](https://twitter.com/impooranjoy) and [LinkedIn](https://www.linkedin.com/in/pooranjoyb).
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/impooranjoy?style=social)](https://twitter.com/impooranjoy) [![Peerlist](https://github-readme-badge.peerlist.io/api/pooranjoyb)](https://peerlist.io/pooranjoyb)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=pooranjoyb&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/pooranjoyb/)
+
+**Let's code, connect, and create awesome things together!**
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=pooranjoyb&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pooranjoyb&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=pooranjoyb&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/pooranjoyb"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
+
+<br />
+<a href="https://pooranjoyb.tech">
+  <table align="left">
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://medium.com/@pooranjoy">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my blog!
+          </td>
+      </tr>
+  </table>
+</a>
 
 ---
 
@@ -76,52 +107,5 @@
 [![An image of @pooranjoyb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pooranjoyb)](https://holopin.io/@pooranjoyb)
   
  </div>
+
  
- ---
- 
-<div align="center">
-  
-### :fire: My Stats :
-  
- </div>
- 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pooranjoyb&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pooranjoyb&show_icons=true&locale=en&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooranjoyb&hide=jupyter%20notebook&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
-
-### 📱 Latest Tweets
-
-<!-- TWITTER:START -->
-- [@impooranjoy: Okay, 2023 went well NGL.
-
-@github @githubuniverse @GithubProjects 
-
-#opensource #GitHub #GitHubUnwrapped #HappyNewYear2024](https://twitter.com/impooranjoy/status/1741435812452114442)
-- [@impooranjoy: Okay, so when I&#39;m getting the money @github ?
-
-#GitHubUnwrapped #GitHub 
-#opensource #contributions](https://twitter.com/impooranjoy/status/1739632537658704027)
-- [@impooranjoy: Okay, I haven&#39;t explored BaaS much, but I&#39;ll just take a moment to appreciate Appwrite. NGL, It&#39;s just really awesome.
-
-#appwrite @appwrite #backend](https://twitter.com/impooranjoy/status/1736453221806424267)
-- [@impooranjoy: I am participating in HackSquad 2023, share your card and win awesome swag! @HackSquadDev @ToolJet @CrowdDotDev @WaspLang @novuhq @hanko_io](https://twitter.com/impooranjoy/status/1704749783163056617)
-- [@impooranjoy: Guess what I just received? 💳 My personalized Cloud card from @appwrite! 🚀
-
-Appwrite Cloud just announced their Public Beta!
-
-🌥️ Sign up now and claim your own card at 
-
-PS: Limited edition cloud hoodies up for grabs 🤩
-
-#AppwriteCloud](https://twitter.com/impooranjoy/status/1653559836674764805)
-<!-- TWITTER:END -->
-
-

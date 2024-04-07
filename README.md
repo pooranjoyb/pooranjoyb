@@ -27,40 +27,29 @@ Apart from the pinned repositories, I have contributed to:
 
 I mostly work with **Typescript**, specifically **React** & **NextJS** to power my Web Apps. Recently, I have been tinkering with **_React-Native_** and **_.NET Core_**.
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white" />&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase" />&nbsp;
-  <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase" />&nbsp;
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code" />
-
-    
 
 ### Open Source Initiatives
 

@@ -10,6 +10,7 @@
 <p align='center'>
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
+
 Glad to see you here! I'm Pooranjoy Bhattacharya, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **open-source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨. 
 
 Currently, I'm building an eCommerce App based on *React* & *Supabase*. My notable contributions include building [StreeSaksham](https://github.com/pooranjoyb/stree_saksham) which was submitted to Google Solutions Challenge 2024. I've had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) in the project named [StoryBook](https://github.com/pooranjoyb/StoryBook-RN).

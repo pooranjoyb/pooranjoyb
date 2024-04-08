@@ -33,7 +33,6 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white" />&nbsp;

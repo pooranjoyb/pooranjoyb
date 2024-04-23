@@ -52,7 +52,7 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
 
 ### Open Source Initiatives
 
-During **Hacktoberfest 2023**, I mentored the Official Website Repository of *[GDSC SMIT](https://github.com/gdscsmit)* helping beginners kickstart their journey into open-source, impacting over 100+ beginners. I also mentored on a project called *[Beat Bridge](https://github/pooranjoyb/BeatBridge)* which is basically a Spotify Integrated Music Player with clustering based recommendation engine. 
+During **Hacktoberfest 2023**, I mentored the Official Website Repository of *[GDSC SMIT](https://github.com/gdscsmit)* helping beginners kickstart their journey into open-source, impacting over 100+ beginners. I also mentored on a project called *[Beat Bridge](https://github.com/pooranjoyb/BeatBridge)* which is basically a Spotify Integrated Music Player with clustering based recommendation engine. 
 
 ### Let's connect!
 

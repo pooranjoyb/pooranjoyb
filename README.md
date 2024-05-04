@@ -20,7 +20,7 @@ _Checkout my recent Project: [We_Talk](https://github.com/pooranjoyb/We_Talk.git
 ### Projects
 
 Apart from the pinned repositories, I have contributed to:
-- 🛡️ [Fintech API](https://github.com/pooranjoyb/fintech-api) *(included in [Project Clueless Community](https://github.com/Clueless-Community) 2023)*
+- ⚡ [Scrape-Up](https://github.com/Clueless-Community/scrape-up) *(A web-scraping-based [python package](https://pypi.org/project/scrape-up/) that enables you to scrape data from various platforms)*
 - 🎲 [Click The Edible Game](https://github.com/pooranjoyb/Click-The-Edible-Game) *(part of [JGEC Winter of Code](https://www.jwoc.tech/) 2023)*
 - 🅿️ [Parking Management Desktop App](https://github.com/pooranjoyb/park-n-go) *(part of 4th Semester Mini-Project)*
 - 🦠 [COVID-19 Tracker](https://github.com/pooranjoyb/Covid-App) *(KivymD Desktop Application included in Delta Winter of Code 2023)*

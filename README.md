@@ -13,7 +13,7 @@
 
 Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨. From the flatlands of Assam to the mountain highs of Sikkim, I swapped tea for treks and learned that altitude isn't just a number!
 
-Currently, I'm building an *eCommerce Application* named **_Pop-Shop_** based on *Supabase and Vite React*. My notable contributions include building [StreeSaksham](https://github.com/pooranjoyb/stree_saksham) which was submitted to Google Solutions Challenge 2024. I've had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) in the project named [StoryBook](https://github.com/pooranjoyb/StoryBook-RN).
+Currently, I'm building an *eCommerce Application* named **_[Pop-Shop](https://github.com/pooranjoyb/popShop)_** based on *Supabase, React Redux and Vite* in _[GirlScript Summer of Code 2024](https://gssoc.girlscript.tech/)_. My notable contributions include building [StreeSaksham](https://github.com/pooranjoyb/stree_saksham) which was submitted to Google Solutions Challenge 2024. I've also had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) as well as [Delta Winter of Code 2023](https://dwoc.io).
 
 _Checkout my recent Project: [We_Talk](https://github.com/pooranjoyb/We_Talk.git)_
 

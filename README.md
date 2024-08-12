@@ -13,9 +13,9 @@
 
 Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨. From the flatlands of Assam to the mountain highs of Sikkim, I swapped tea for treks and learned that altitude isn't just a number!
 
-Currently, I'm building an *eCommerce Application* named **_[Pop-Shop](https://github.com/pooranjoyb/popShop)_** based on *Supabase, React Redux and Vite* in _[GirlScript Summer of Code 2024](https://gssoc.girlscript.tech/)_. My notable contributions include building [StreeSaksham](https://github.com/pooranjoyb/stree_saksham) which was submitted to Google Solutions Challenge 2024. I've also had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) as well as [Delta Winter of Code 2023](https://dwoc.io).
+Currently, I'm tinkering with ASM and understanding the working of Linux Kernels. My notable contributions include building [StreeSaksham](https://github.com/pooranjoyb/stree_saksham) which was submitted to Google Solutions Challenge 2024. I've also had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) as well as [Delta Winter of Code 2023](https://dwoc.io).
 
-_Checkout my recent Project: [We_Talk](https://github.com/pooranjoyb/We_Talk.git)_
+_Checkout my recent Project: [PopShop](https://github.com/pooranjoyb/popShop.git)_
 
 ### Projects
 
@@ -54,7 +54,7 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
 
 ### Open Source Initiatives
 
-During **Hacktoberfest 2023**, I mentored the Official Website Repository of *[GDSC SMIT](https://github.com/gdscsmit)* helping beginners kickstart their journey into open-source, impacting over 100+ beginners. I also mentored on a project called *[Beat Bridge](https://github.com/pooranjoyb/BeatBridge)* which is basically a Spotify Integrated Music Player with clustering based recommendation engine. 
+Build an *eCommerce Application with Admin Portal* named **_[Pop-Shop](https://github.com/pooranjoyb/popShop)_** based on *Supabase & React-Redux* in [GirlScript Summer of Code 2024](https://gssoc.girlscript.tech/). During **Hacktoberfest 2023**, I mentored the Official Website Repository of *[GDSC SMIT](https://github.com/gdscsmit)* helping beginners kickstart their journey into open-source, impacting over 100+ beginners. I also mentored on a project called *[Beat Bridge](https://github.com/pooranjoyb/BeatBridge)* which is basically a Spotify Integrated Music Player with clustering based recommendation engine. 
 
 ### Let's connect!
 

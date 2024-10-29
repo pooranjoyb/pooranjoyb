@@ -15,7 +15,7 @@ Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Aspiring Software E
 
 Currently, I'm tinkering with ASM and understanding the working of Linux Kernels. My notable contributions include building [StreeSaksham](https://github.com/pooranjoyb/stree_saksham) which was submitted to Google Solutions Challenge 2024. I've also had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) as well as [Delta Winter of Code 2023](https://dwoc.io).
 
-_Checkout my recent Project: [PopShop](https://github.com/pooranjoyb/popShop.git)_
+_Checkout my recent Project: [C++-SDK for Appwrite](https://github.com/pooranjoyb/cpp-sdk-appwrite.git)_
 
 ### Projects
 

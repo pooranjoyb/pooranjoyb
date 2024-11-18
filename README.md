@@ -52,10 +52,6 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
 
-### Open Source Initiatives
-
-Build an *eCommerce Application with Admin Portal* named **_[Pop-Shop](https://github.com/pooranjoyb/popShop)_** based on *Supabase & React-Redux* in [GirlScript Summer of Code 2024](https://gssoc.girlscript.tech/). During **Hacktoberfest 2023**, I mentored the Official Website Repository of *[GDSC SMIT](https://github.com/gdscsmit)* helping beginners kickstart their journey into open-source, impacting over 100+ beginners. I also mentored on a project called *[Beat Bridge](https://github.com/pooranjoyb/BeatBridge)* which is basically a Spotify Integrated Music Player with clustering based recommendation engine. 
-
 ### Let's connect!
 
 Explore my thoughts at 𝕏 [(Twitter)](https://twitter.com/impooranjoy) and [LinkedIn](https://www.linkedin.com/in/pooranjoyb).

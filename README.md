@@ -13,17 +13,9 @@
 
 Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨. From the flatlands of Assam to the mountain highs of Sikkim, I swapped tea for treks and learned that altitude isn't just a number!
 
-Currently, I'm tinkering with ASM and understanding the working of Linux Kernels. My notable contributions include building [StreeSaksham](https://github.com/pooranjoyb/stree_saksham) which was submitted to Google Solutions Challenge 2024. I've also had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) as well as [Delta Winter of Code 2023](https://dwoc.io).
+Currently, I'm tinkering with C++ and understanding the working of Linux Kernels. 
 
-_Checkout my recent Project: [C++-SDK for Appwrite](https://github.com/pooranjoyb/cpp-sdk-appwrite.git)_
-
-### Projects
-
-Apart from the pinned repositories, I have contributed to:
-- ⚡ [Scrape-Up](https://github.com/Clueless-Community/scrape-up) *(A web-scraping-based [python package](https://pypi.org/project/scrape-up/) that enables you to scrape data from various platforms)*
-- 🎲 [Click The Edible Game](https://github.com/pooranjoyb/Click-The-Edible-Game) *(part of [JGEC Winter of Code](https://www.jwoc.tech/) 2023)*
-- 🅿️ [Parking Management Desktop App](https://github.com/pooranjoyb/park-n-go) *(part of 4th Semester Mini-Project)*
-- 🦠 [COVID-19 Tracker](https://github.com/pooranjoyb/Covid-App) *(KivymD Desktop Application included in Delta Winter of Code 2023)*
+_My notable contributions include building [C++ SDK Support for Appwrite](https://github.com/pooranjoyb/cpp-sdk-appwrite.git) which was submitted to Appwrite Hackathon 2024._
 
 ### Tech Stack
 
@@ -54,11 +46,7 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
 
 ### Let's connect!
 
-Explore my thoughts at 𝕏 [(Twitter)](https://twitter.com/impooranjoy) and [LinkedIn](https://www.linkedin.com/in/pooranjoyb).
-
-[![Kaggle | pooranjoyb](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://kaggle.com/pooranjoyb) [![Twitter Follow](https://img.shields.io/twitter/follow/impooranjoy?style=social)](https://twitter.com/impooranjoy) [![Peerlist](https://github-readme-badge.peerlist.io/api/pooranjoyb)](https://peerlist.io/pooranjoyb)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=pooranjoyb&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/pooranjoyb/)
-
-**Let's code, connect, and create awesome things together!**
+[![Kaggle | pooranjoyb](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://kaggle.com/pooranjoyb) [![Twitter Follow](https://img.shields.io/twitter/follow/impooranjoy?style=social)](https://twitter.com/impooranjoy) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=pooranjoyb&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/pooranjoyb/)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=pooranjoyb&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -88,13 +76,5 @@ Explore my thoughts at 𝕏 [(Twitter)](https://twitter.com/impooranjoy) and [Li
       </tr>
   </table>
 </a>
-
----
-
-<div align="center">
-
-[![An image of @pooranjoyb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pooranjoyb)](https://holopin.io/@pooranjoyb)
-  
- </div>
 
  

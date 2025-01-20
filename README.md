@@ -11,7 +11,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
-Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨. From the flatlands of Assam to the mountain highs of Sikkim, I swapped tea for treks and learned that altitude isn't just a number!
+Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨.
 
 Currently, I'm tinkering with C++ and understanding the working of Linux Kernels. 
 
@@ -67,7 +67,7 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
       </tr>
   </table>
 </a>
-<a href="https://medium.com/@pooranjoy">
+<a href="https://medium.com/@pooranjoyb">
   <table align="right">
       <tr>
           <td>

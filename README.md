@@ -4,7 +4,7 @@
 <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=pooranjoyb&color=dc143c"/></a>
   <a href="https://medium.com/@pooranjoy" ><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-  <a href="https://pooranjoyb.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://pooranjoyb.github.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://github.com/pooranjoyb?tab=repositories"><img src="https://img.shields.io/github/stars/pooranjoyb?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 <p align='center'>
@@ -58,7 +58,7 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
 </p>
 
 <br />
-<a href="https://pooranjoyb.tech">
+<a href="https://pooranjoyb.github.io">
   <table align="left">
       <tr>
           <td>

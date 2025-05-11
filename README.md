@@ -13,36 +13,25 @@
 
 Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨.
 
-Currently, I'm tinkering with C++ and understanding the working of Linux Kernels. 
-
 _My notable contributions include building [C++ SDK Support for Appwrite](https://github.com/pooranjoyb/cpp-sdk-appwrite.git) which was submitted to Appwrite Hackathon 2024._
 
 ### Tech Stack
 
-I mostly work with **Typescript**, specifically **React** & **NextJS** to power my Web Apps. Recently, I have been tinkering with **_React-Native_** and **_.NET Core_**.
+I mostly work with **Typescript**, specifically **React** & **NextJS** to power my Web Apps. Recently, I've been tinkering with **_C++_** and **_Spring-Boot_**. and understanding the working of Linux Kernels. 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?&logo=appwrite&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase" />&nbsp;
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
 
 ### Let's connect!
 

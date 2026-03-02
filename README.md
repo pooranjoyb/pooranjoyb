@@ -11,7 +11,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
-Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨.
+Glad to see you here! I'm **_Pooranjoy Bhattacharya_**, an **Associate Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨.
 
 _My notable contributions include building [C++ SDK Support for Appwrite](https://github.com/pooranjoyb/cpp-sdk-appwrite.git) which was submitted to Appwrite Hackathon 2024._
 

@@ -36,15 +36,15 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
 ### Let's connect!
 
 [![Kaggle | pooranjoyb](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://kaggle.com/pooranjoyb) [![Twitter Follow](https://img.shields.io/twitter/follow/impooranjoy?style=social)](https://twitter.com/impooranjoy) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=pooranjoyb&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/pooranjoyb/)
-
+<!--
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=pooranjoyb&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pooranjoyb&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=pooranjoyb&theme=darcula&hide_border=true&background=FFFFFF00">
+  // <img src ="https://github-readme-streak-stats.herokuapp.com?user=pooranjoyb&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/pooranjoyb"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
-</p>
+<a href="https://www.buymeacoffee.com/pooranjoyb"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p> 
 
 <br />
 <a href="https://pooranjoyb.github.io">
@@ -64,6 +64,9 @@ I mostly work with **Typescript**, specifically **React** & **NextJS** to power 
           </td>
       </tr>
   </table>
+
+  
 </a>
 
  
+-->
